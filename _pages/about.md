@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Phd candidate at Sun Yat-sen University, China. My research interest includes remote sensing and cryosphere environment. 
+I'm a Phd candidate at Sun Yat-sen University, China. My research interest includes remote sensing and cryospheric science. 
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.07*: &nbsp;🎉🎉 The paper "_Modeling pan-Arctic seasonal and interannual landfast sea ice thickness and snow depth between 1979 and 2021_" was accepted by _International Journal of Digital Earth_.
 
 # 📝 Publications 
 
@@ -44,6 +44,6 @@ I'm a Phd candidate at Sun Yat-sen University, China. My research interest inclu
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 to present*, Sun Yat-sen University, PhD. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
