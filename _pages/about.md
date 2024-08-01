@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Phd candidate at Sun Yat-sen University, China. My research interest includes remote sensing and cryospheric science. 
+I'm a PhD candidate at Sun Yat-sen University, China. My research interests include remote sensing and cryospheric science, primarily remote sensing of sea ice. 
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 The paper "_Modeling pan-Arctic seasonal and interannual landfast sea ice thickness and snow depth between 1979 and 2021_" was accepted by _International Journal of Digital Earth_.
+- *2024.07*: &nbsp;🎉 The paper "_Modeling pan-Arctic seasonal and interannual landfast sea ice thickness and snow depth between 1979 and 2021_" was accepted by _International Journal of Digital Earth_.
 
 # 📝 Publications 
 
@@ -39,11 +39,9 @@ I'm a Phd candidate at Sun Yat-sen University, China. My research interest inclu
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2021.09 to present*, Sun Yat-sen University, PhD. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 to present*, PhD student/candidate in GIS and Remote Sensing, Sun Yat-sen University, Zhuhai, China. 
+- *2018.09 - 2021.06*, M.Sc. in Remote Sensing, Wuhan University, Wuhan, China.
+- *2014.09 - 2018.06*, B.Sc. in Surveying and Mapping, Nanjing Tech University, Nanjing, China.
 
