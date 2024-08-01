@@ -41,7 +41,7 @@ I'm a PhD candidate at Sun Yat-sen University, China. My research interests incl
 
 
 # 📖 Educations
-- *2021.09 to present*, PhD student/candidate in GIS and Remote Sensing, Sun Yat-sen University, Zhuhai, China. 
-- *2018.09 - 2021.06*, M.Sc. in Remote Sensing, Wuhan University, Wuhan, China.
-- *2014.09 - 2018.06*, B.Sc. in Surveying and Mapping, Nanjing Tech University, Nanjing, China.
+- **2021.09 to present**, PhD student/candidate in GIS and Remote Sensing, Sun Yat-sen University, Zhuhai, China. 
+- **2018.09 - 2021.06**, M.Sc. in Remote Sensing, Wuhan University, Wuhan, China.
+- **2014.09 - 2018.06**, B.Sc. in Surveying and Mapping, Nanjing Tech University, Nanjing, China.
 
