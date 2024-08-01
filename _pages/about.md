@@ -28,16 +28,14 @@ I'm a PhD candidate at Sun Yat-sen University, China. My research interests incl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Wang, Zihan**, Jiechen Zhao, Bin Cheng, Fengming Hui, Jie Su, and Xiao Cheng. 2024. “Modeling Pan-Arctic Seasonal and Interannual Landfast Sea Ice Thickness and Snow Depth between 1979 and 2021.” **_International Journal of Digital Earth_**, 17(1): 2376253. [https://doi.org/10.1080/17538947.2024.2376253](https://doi.org/10.1080/17538947.2024.2376253).
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Liu, Tingting, **Zihan Wang***, Mohammed Shokr, Ruibo Lei, and Zhaoru Zhang. 2022. “An Assessment of Sea Ice Motion Products in the Robeson Channel Using Daily Sentinel-1 Images.” **_Remote Sensing_**, 14 (2): 329. [https://doi.org/10.3390/rs14020329](https://doi.org/10.3390/rs14020329).
+
+- Shokr, Mohammed E., **Zihan Wang**, and Tingting Liu. 2020. “Sea Ice Drift and Arch Evolution in the Robeson Channel Using the Daily Coverage of Sentinel-1 SAR Data for the 2016–2017 Freezing Season.” **_The Cryosphere_**, 14 (11): 3611–3627. [https://doi.org/10.5194/tc-14-3611-2020](https://doi.org/10.5194/tc-14-3611-2020).
 
 
 # 📖 Educations
