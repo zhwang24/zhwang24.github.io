@@ -21,11 +21,11 @@ I'm a PhD candidate at Sun Yat-sen University, China. My research interests incl
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉 The paper "_Modeling pan-Arctic seasonal and interannual landfast sea ice thickness and snow depth between 1979 and 2021_" was accepted by _International Journal of Digital Earth_.
+- *2024.07*: &nbsp;🎉🎉 The paper "_Modeling pan-Arctic seasonal and interannual landfast sea ice thickness and snow depth between 1979 and 2021_" was accepted by _International Journal of Digital Earth_.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Cover_paper.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Wang, Zihan**, Jiechen Zhao, Bin Cheng, Fengming Hui, Jie Su, and Xiao Cheng. 2024. “Modeling Pan-Arctic Seasonal and Interannual Landfast Sea Ice Thickness and Snow Depth between 1979 and 2021.” **_International Journal of Digital Earth_**, 17(1): 2376253. [https://doi.org/10.1080/17538947.2024.2376253](https://doi.org/10.1080/17538947.2024.2376253).
