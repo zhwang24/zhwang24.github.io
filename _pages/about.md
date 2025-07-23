@@ -27,7 +27,7 @@ I’m a postdoctoral researcher at the Polar Research Institute of China. My res
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><!-- <div class="badge">CVPR 2016</div> --><img src='images/Cover_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><!-- <div class="badge">CVPR 2016</div> --><img src='images/Cover_paper.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Wang, Z.**, Hui, F., Cheng, X., 2025. A Machine Learning-Reconstructed Dataset of River Discharge, Temperature, and Heat Flux into the Arctic Ocean. **_Scientific Data_**, 12, 1255. [https://doi.org/10.1038/s41597-025-05582-9](https://doi.org/10.1038/s41597-025-05582-9)
