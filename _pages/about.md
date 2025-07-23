@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a PhD candidate at Sun Yat-sen University, China. My research interests include remote sensing and cryospheric science, primarily remote sensing of sea ice. 
+I’m a postdoctoral researcher at the Polar Research Institute of China. My research interests focus on remote sensing and thermodynamics of sea ice.
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 The paper "_A Machine Learning-Reconstructed Dataset of River Discharge, Temperature, and Heat Flux into the Arctic Ocean_" was accepted by _Scientific Data_.
+- *2025.06*: &nbsp;🎈🎓 Graduated from Sun Yat-sen University with a Ph.D. in Science.
 - *2024.07*: &nbsp;🎉🎉 The paper "_Modeling pan-Arctic seasonal and interannual landfast sea ice thickness and snow depth between 1979 and 2021_" was accepted by _International Journal of Digital Earth_.
 
 # 📝 Publications 
@@ -28,18 +30,18 @@ I'm a PhD candidate at Sun Yat-sen University, China. My research interests incl
 <div class='paper-box'><div class='paper-box-image'><div><!-- <div class="badge">CVPR 2016</div> --><img src='images/Cover_paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Wang, Zihan**, Jiechen Zhao, Bin Cheng, Fengming Hui, Jie Su, and Xiao Cheng. 2024. “Modeling Pan-Arctic Seasonal and Interannual Landfast Sea Ice Thickness and Snow Depth between 1979 and 2021.” **_International Journal of Digital Earth_**, 17(1): 2376253. [https://doi.org/10.1080/17538947.2024.2376253](https://doi.org/10.1080/17538947.2024.2376253).
+**Wang, Z.**, Hui, F., Cheng, X., 2025. A Machine Learning-Reconstructed Dataset of River Discharge, Temperature, and Heat Flux into the Arctic Ocean. **_Scientific Data_**, 12, 1255. [https://doi.org/10.1038/s41597-025-05582-9](https://doi.org/10.1038/s41597-025-05582-9)
 
 </div>
 </div>
 
-- Liu, Tingting, **Zihan Wang***, Mohammed Shokr, Ruibo Lei, and Zhaoru Zhang. 2022. “An Assessment of Sea Ice Motion Products in the Robeson Channel Using Daily Sentinel-1 Images.” **_Remote Sensing_**, 14 (2): 329. [https://doi.org/10.3390/rs14020329](https://doi.org/10.3390/rs14020329).
-
-- Shokr, Mohammed E., **Zihan Wang**, and Tingting Liu. 2020. “Sea Ice Drift and Arch Evolution in the Robeson Channel Using the Daily Coverage of Sentinel-1 SAR Data for the 2016–2017 Freezing Season.” **_The Cryosphere_**, 14 (11): 3611–3627. [https://doi.org/10.5194/tc-14-3611-2020](https://doi.org/10.5194/tc-14-3611-2020).
+- **Wang, Z.**, Zhao, J., Cheng, B., Hui, F., Su, J., Cheng, X., 2024. Modeling pan-Arctic seasonal and interannual landfast sea ice thickness and snow depth between 1979 and 2021. **_International Journal of Digital Earth_**, 17, 2376253. [https://doi.org/10.1080/17538947.2024.2376253](https://doi.org/10.1080/17538947.2024.2376253)
+- Liu, T., **Wang, Z.***, Shokr, M., Lei, R., Zhang, Z., 2022. An Assessment of Sea Ice Motion Products in the Robeson Channel Using Daily Sentinel-1 Images. **_Remote Sensing_** 14, 329. [https://doi.org/10.3390/rs14020329](https://doi.org/10.3390/rs14020329)
+- Shokr, M.E., **Wang, Z.**, Liu, T., 2020. Sea ice drift and arch evolution in the Robeson Channel using the daily coverage of Sentinel-1 SAR data for the 2016–2017 freezing season. **_The Cryosphere_** 14, 3611–3627. [https://doi.org/10.5194/tc-14-3611-2020](https://doi.org/10.5194/tc-14-3611-2020)
 
 
 # 📖 Educations
-- **2021.09 to present**, PhD student/candidate in GIS and Remote Sensing, Sun Yat-sen University, Zhuhai, China. 
+- **2021.09 – 2025.06**, Ph.D. in Science (GIS and Remote Sensing), Sun Yat-sen University, Zhuhai, China. 
 - **2018.09 – 2021.06**, M.Eng. in Remote Sensing, Wuhan University, Wuhan, China.
 - **2014.09 – 2018.06**, B.Eng. in Surveying and Mapping, Nanjing Tech University, Nanjing, China.
 
