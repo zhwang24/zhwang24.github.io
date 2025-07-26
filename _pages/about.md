@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a postdoctoral researcher at the Polar Research Institute of China. My research interests focus on remote sensing and thermodynamics of sea ice.
+As a postdoctoral researcher at the Polar Research Institute of China, I investigate the Arctic's response to climate change, focusing on the sea-ice-atmosphere system and its interaction with Arctic rivers. My research involves the applications of remote sensing, thermodynamic modeling, and machine learning to analyze these complex and interconnected polar processes.
 
 
 # 🔥 News
