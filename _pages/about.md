@@ -39,8 +39,8 @@ As a postdoctoral researcher at the Polar Research Institute of China, my work f
 - Liu, T., **Wang, Z.***, Shokr, M., Lei, R., Zhang, Z., 2022. An Assessment of Sea Ice Motion Products in the Robeson Channel Using Daily Sentinel-1 Images. **_Remote Sensing_** 14, 329. [https://doi.org/10.3390/rs14020329](https://doi.org/10.3390/rs14020329)
 - Shokr, M.E., **Wang, Z.**, Liu, T., 2020. Sea ice drift and arch evolution in the Robeson Channel using the daily coverage of Sentinel-1 SAR data for the 2016–2017 freezing season. **_The Cryosphere_** 14, 3611–3627. [https://doi.org/10.5194/tc-14-3611-2020](https://doi.org/10.5194/tc-14-3611-2020)
 
-# 💼 Work Experience 
-- *2025.07 to present*: Postdoctoral Researcher, Polar Research Institute of China, Shanghai, China, Jul 2025 to present
+# 💼 Research Experience 
+- **2025.07 to present**: Postdoctoral Researcher, Polar Research Institute of China, Shanghai, China
 
 # 📖 Educations
 - **2021.09 – 2025.06**, Ph.D. in Science (GIS and Remote Sensing), Sun Yat-sen University, Zhuhai, China. 
