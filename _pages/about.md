@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-As a postdoctoral researcher at the Polar Research Institute of China, my work focuses on cryosphere science, specifically the dynamics and thermodynamics of sea ice within the river–sea–ice–atmosphere system. I investigate how these processes contribute to broader climate change. My methodology incorporates remote sensing, thermodynamic modeling, and machine learning to analyze these complex polar interactions.
+As a postdoctoral researcher at the Polar Research Institute of China, my work focuses on cryosphere science, specifically the dynamics and thermodynamics of sea ice within the river–sea–ice–atmosphere system. I investigate how these processes contribute to broader climate change. My methodology employs remote sensing, thermodynamic modeling, and machine learning to analyze these complex polar interactions.
 
 
 # 🔥 News
