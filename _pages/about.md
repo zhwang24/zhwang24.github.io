@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-As a postdoctoral researcher at the Polar Research Institute of China, I investigate the Arctic's response to climate change, focusing on the sea-ice-atmosphere system and its interaction with Arctic rivers. My research involves the applications of remote sensing, thermodynamic modeling, and machine learning to analyze these complex and interconnected polar processes.
+As a postdoctoral researcher at the Polar Research Institute of China, my work focuses on cryosphere science, specifically the dynamics and thermodynamics of sea ice within the river–sea–ice–atmosphere system. I investigate how these processes contribute to broader climate change. My methodology incorporates remote sensing, thermodynamic modeling, and machine learning to analyze these complex polar interactions.
 
 
 # 🔥 News
