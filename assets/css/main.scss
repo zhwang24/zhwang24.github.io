@@ -123,6 +123,21 @@ h1:before, .anchor:before {
     color: #000;
 }
 
+/* Google Scholar / ORCID brand marks: official inline SVGs, sized to sit on
+   the same optical line as the .fa-fw and academicons glyphs around them. */
+.brand-svg {
+    display: inline-block;
+    width: 1.25em;
+    height: 0.91em;
+    margin: 0;
+    fill: currentColor;
+    vertical-align: -0.05em;
+}
+
+.social-icons .brand-svg {
+    color: #000;
+}
+
 /* News timeline: date on the left, a dotted vertical rail in the middle and
    the event text on the right. #224b8d is the theme's $info-color. */
 .news-timeline {
