@@ -22,10 +22,25 @@ As a postdoctoral researcher at the Polar Research Institute of China, my work f
 
 
 # 🔥 News
-- *2026.07–09*: &nbsp;🧊🚢 Participated in the 16th Chinese National Arctic Research Expedition (CHINARE N16), taking part in sea ice, oceanographic and other field work in the Arctic Ocean.
-- *2025.07*: &nbsp;🎉🎉 The paper "_A Machine Learning-Reconstructed Dataset of River Discharge, Temperature, and Heat Flux into the Arctic Ocean_" was accepted by _Scientific Data_.
-- *2025.06*: &nbsp;🎈🎓 Graduated from Sun Yat-sen University with a Ph.D. in Science.
-- *2024.07*: &nbsp;🎉🎉 The paper "_Modeling pan-Arctic seasonal and interannual landfast sea ice thickness and snow depth between 1979 and 2021_" was accepted by _International Journal of Digital Earth_.
+
+<ul class="news-timeline">
+  <li class="news-item">
+    <div class="news-date">2026.07–09</div>
+    <div class="news-content">🧊🚢&nbsp; Participated in the 16th Chinese National Arctic Research Expedition (CHINARE N16), taking part in sea ice, oceanographic and other field work in the Arctic Ocean.</div>
+  </li>
+  <li class="news-item">
+    <div class="news-date">2025.07</div>
+    <div class="news-content">🎉🎉&nbsp; The paper <em>“A Machine Learning-Reconstructed Dataset of River Discharge, Temperature, and Heat Flux into the Arctic Ocean”</em> was accepted by <em>Scientific Data</em>.</div>
+  </li>
+  <li class="news-item">
+    <div class="news-date">2025.06</div>
+    <div class="news-content">🎈🎓&nbsp; Graduated from Sun Yat-sen University with a Ph.D. in Science.</div>
+  </li>
+  <li class="news-item">
+    <div class="news-date">2024.07</div>
+    <div class="news-content">🎉🎉&nbsp; The paper <em>“Modeling pan-Arctic seasonal and interannual landfast sea ice thickness and snow depth between 1979 and 2021”</em> was accepted by <em>International Journal of Digital Earth</em>.</div>
+  </li>
+</ul>
 
 # 📝 Selected Publications 
 

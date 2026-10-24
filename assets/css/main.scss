@@ -122,3 +122,99 @@ h1:before, .anchor:before {
 .social-icons .x-twitter-logo {
     color: #000;
 }
+
+/* News timeline: date on the left, a dotted vertical rail in the middle and
+   the event text on the right. #224b8d is the theme's $info-color. */
+.news-timeline {
+    list-style: none;
+    margin: 1.4em 0;
+    padding: 0;
+}
+
+.news-timeline .news-item {
+    position: relative;
+    display: grid;
+    grid-template-columns: 6.3rem 1.8rem 1fr;
+    margin: 0;
+    padding-bottom: 1.7rem;
+    line-height: 1.65;
+}
+
+.news-timeline .news-item:last-child {
+    padding-bottom: 0;
+}
+
+.news-timeline .news-item::before {
+    content: "";
+    position: absolute;
+    left: 7.2rem;
+    top: 0.7em;
+    bottom: -0.4rem;
+    width: 2px;
+    margin-left: -1px;
+    background: #e5eaf0;
+}
+
+.news-timeline .news-item:last-child::before {
+    display: none;
+}
+
+.news-timeline .news-item::after {
+    content: "";
+    position: absolute;
+    left: 7.2rem;
+    top: 0.46em;
+    width: 11px;
+    height: 11px;
+    margin-left: -5.5px;
+    border: 2px solid #224b8d;
+    border-radius: 50%;
+    background: #fff;
+    box-sizing: border-box;
+    transition: background 0.15s ease;
+}
+
+.news-timeline .news-item:hover::after {
+    background: #224b8d;
+}
+
+.news-timeline .news-date {
+    grid-column: 1;
+    padding-top: 0.24em;
+    font-size: 0.78em;
+    font-weight: 700;
+    color: #224b8d;
+    letter-spacing: 0.01em;
+    font-variant-numeric: tabular-nums;
+    text-align: right;
+    white-space: nowrap;
+}
+
+.news-timeline .news-content {
+    grid-column: 3;
+    min-width: 0;
+}
+
+@media (max-width: 600px) {
+    .news-timeline .news-item {
+        grid-template-columns: 4.7rem 1.5rem 1fr;
+        padding-bottom: 1.5rem;
+    }
+
+    .news-timeline .news-item::before {
+        left: 5.45rem;
+    }
+
+    .news-timeline .news-item::after {
+        left: 5.45rem;
+        top: 0.48em;
+        width: 10px;
+        height: 10px;
+        margin-left: -5px;
+    }
+
+    .news-timeline .news-date {
+        padding-top: 0.3em;
+        font-size: 0.72em;
+    }
+}
