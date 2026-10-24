@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: ""
+description: "Postdoctoral researcher at the Polar Research Institute of China. Research on Arctic sea ice dynamics and thermodynamics in the river-sea-ice-atmosphere system, using satellite remote sensing, thermodynamic modeling, and machine learning."
 excerpt: ""
 author_profile: true
 redirect_from: 
