@@ -107,3 +107,18 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* X (Twitter) brand mark: inline SVG replacing the old Font Awesome 5
+   twitter-square glyph. Sized to line up with the .fa-fw icons around it. */
+.x-twitter-logo {
+    display: inline-block;
+    width: 1.25em;
+    height: 1.09em;
+    margin: 0;
+    fill: currentColor;
+    vertical-align: -0.17em;
+}
+
+.social-icons .x-twitter-logo {
+    color: #000;
+}
