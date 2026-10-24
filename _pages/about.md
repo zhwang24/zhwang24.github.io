@@ -25,9 +25,9 @@ As a postdoctoral researcher at the Polar Research Institute of China, my work f
 - *2025.06*: &nbsp;🎈🎓 Graduated from Sun Yat-sen University with a Ph.D. in Science.
 - *2024.07*: &nbsp;🎉🎉 The paper "_Modeling pan-Arctic seasonal and interannual landfast sea ice thickness and snow depth between 1979 and 2021_" was accepted by _International Journal of Digital Earth_.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><!-- <div class="badge">CVPR 2016</div> --><img src='images/Cover_paper.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><!-- <div class="badge">CVPR 2016</div> --><img src='images/Cover_paper.jpg' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Wang, Z.**, Hui, F., Cheng, X., 2025. A Machine Learning-Reconstructed Dataset of River Discharge, Temperature, and Heat Flux into the Arctic Ocean. **_Scientific Data_**, 12, 1255. [https://doi.org/10.1038/s41597-025-05582-9](https://doi.org/10.1038/s41597-025-05582-9)

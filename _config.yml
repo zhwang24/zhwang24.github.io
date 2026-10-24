@@ -6,8 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zihan WANG"
-description              : " "
+title                    : "Zihan WANG 王子涵"
+description              : "Postdoctoral researcher at the Polar Research Institute of China. Research on Arctic sea ice dynamics and thermodynamics in the river-sea-ice-atmosphere system, using satellite remote sensing, thermodynamic modeling, and machine learning."
+url                      : "https://zhwang24.github.io"
 repository               : "zhwang24/zhwang24.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,6 +16,7 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
+og_image                 : "/images/og-card.jpg"
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
